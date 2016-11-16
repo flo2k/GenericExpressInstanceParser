@@ -1,0 +1,2 @@
+# handling invalid characters in xml
+http://stackoverflow.com/questions/730133/invalid-characters-in-xml
